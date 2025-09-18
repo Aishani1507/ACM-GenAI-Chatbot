@@ -33,6 +33,9 @@ Chat history is stored in st.session_state for display.
 
 
 ##To run the program please use the commond
+
 For Apple Use: streamlit run /location of file
+
 Eg: streamlit run /Users/apple/Downloads/bot/chatbot.py
+
 For Windows Use: python -m streamlit run chatbot.py
